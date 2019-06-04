@@ -1,0 +1,20 @@
+PODS:
+  - testModule (0.1.0)
+  - testModuleA (0.0.2)
+
+DEPENDENCIES:
+  - testModule
+  - testModuleA
+
+SPEC REPOS:
+  https://github.com/wuzelun/testRepos:
+    - testModule
+    - testModuleA
+
+SPEC CHECKSUMS:
+  testModule: ae5c8f463fea35106ab31bfccc14faccd8411f00
+  testModuleA: 963fdc034dc0876dff47bd93988ad62fca076bd8
+
+PODFILE CHECKSUM: 10ed14b3ec64a51437ea96bfd2d4f0fb6052b47e
+
+COCOAPODS: 1.6.1
